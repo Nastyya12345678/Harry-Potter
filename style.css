@@ -187,3 +187,8 @@ body{
     justify-content: center;
     flex-wrap: wrap;
 }
+.poi{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
